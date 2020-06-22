@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{DD737ACA-79B4-D9E4-8092-9A46298973B3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/EndPanel.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Stack.cs" Line="86" Column="26" />
+      <File FileName="Assets/Scripts/Menu.cs" Line="61" Column="6" />
+      <File FileName="Assets/Scripts/RemoveRubble.cs" Line="11" Column="2" />
+      <File FileName="Assets/Scripts/EndPanel.cs" Line="20" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Stack" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="EndPanel.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cd54cc6e-66c6-4642-8a02-c287e76f8a9c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
